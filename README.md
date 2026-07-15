@@ -1,4 +1,4 @@
-# Pentagon - Technical Writing Platform (Soon Production)
+# Pentagon - Technical Writing Platform (Production Soon)
 
 A Django-based platform for technical writers to publish articles with tiered access (Free, Standard, Premium) and subscription monetization via PayPal.
 
